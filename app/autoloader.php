@@ -1,0 +1,1 @@
+<?phpclass autoloader {	public function __construct() {		spl_a	}}
