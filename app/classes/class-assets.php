@@ -1,1 +1,1 @@
-<?phpclass assets {}
+<?phpclass assets {        public static function css($file_name)    {        echo THEME_URL . '/assets/css/' . $file_name;	}    public static function js($file_name)    {        echo THEME_URL . '/assets/js/' . $file_name;    }    public static function image($file_name)    {        echo THEME_URL . '/assets/images/' . $file_name;    }}

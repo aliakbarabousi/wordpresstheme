@@ -1,1 +1,1 @@
-<?php
+<?php$theme_url = get_template_directory_uri();$theme = get_template_directory();define('THEME_URL',$theme_url);define('THEME_PATH',$theme);define('THEME_VIEW',THEME_PATH.DIRECTORY_SEPARATOR.'views');

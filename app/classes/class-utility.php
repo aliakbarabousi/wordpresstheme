@@ -1,0 +1,1 @@
+<?phpclass utility{    public static function get_persian_number($input)    {        $per_numbers = array('');    }}
